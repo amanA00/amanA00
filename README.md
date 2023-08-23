@@ -50,4 +50,4 @@
 
 ### Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amanA00&layout=compact)    
+[//]: <> (![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amanA00&layout=compact) )   
